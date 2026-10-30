@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1600" viewBox="0 0 1080 1600" role="img" aria-labelledby="title desc">
+<title id="title">GenAI 教學整合流程</title><desc id="desc">由課堂記錄、語意核對、三語中介、知識整理、教材產出到工作流程自動化，並持續檢核回饋的直式架構圖。</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0L6 3L0 6" fill="none" stroke="#60988e" stroke-width="1.5"/></marker></defs>
+<style>text{font-family:'Noto Sans CJK TC','Noto Sans CJK SC',sans-serif;fill:#263f43}.small{font-size:18px;fill:#637b7d}.body{font-size:22px}.h{font-size:28px;font-weight:700}.num{font-size:23px;font-weight:700;fill:#287c70}.line{fill:none;stroke:#60988e;stroke-width:2.5;marker-end:url(#arrow)}</style>
+<rect width="1080" height="1600" fill="#f7faf9"/>
+<rect x="56" y="54" width="44" height="6" rx="3" fill="#55ad99"/>
+<text x="56" y="102" font-size="19" letter-spacing="3" fill="#4d8d81">IN-CLASS NOTE · 2026.10.30</text>
+<text x="56" y="164" font-size="46" font-weight="700">GenAI 教學整合流程</text>
+<text x="56" y="205" font-size="23" fill="#637b7d">從課堂內容，到可重複執行的學習與工作系統</text>
+<rect x="56" y="242" width="968" height="110" rx="18" fill="#e9f3ef"/>
+<text x="80" y="278" font-size="21" font-weight="700">發展視角｜交通工具演化 × GenAI 發展</text>
+<text x="80" y="315" font-size="21">馬車 → 汽車 → 電動車 → 自駕車</text>
+<text x="80" y="338" font-size="16" fill="#637b7d">能力・基礎建設・自主程度</text>
+
+<rect x="56" y="390" width="968" height="126" rx="17" fill="#fff" stroke="#dce7e3"/>
+<circle cx="103" cy="435" r="25" fill="#e6f3ed"/>
+<text x="88" y="443" class="num">01</text>
+<text x="148" y="433" class="h">課堂記錄</text>
+<text x="148" y="471" class="small">保留教學內容與學生的理解線索</text>
+<line x1="546" y1="415" x2="546" y2="491" stroke="#e2ebe7"/>
+<text x="573" y="438" class="body">實物投影機／電子白板</text>
+<text x="573" y="474" class="small">課堂筆記・錄音・課堂問答</text>
+<path d="M507 518 V533" class="line"/>
+<rect x="56" y="536" width="968" height="126" rx="17" fill="#fff" stroke="#dce7e3"/>
+<circle cx="103" cy="581" r="25" fill="#e6f3ed"/>
+<text x="88" y="589" class="num">02</text>
+<text x="148" y="579" class="h">語意核對</text>
+<text x="148" y="617" class="small">辨識文字、概念與關係，再由人確認</text>
+<line x1="546" y1="561" x2="546" y2="637" stroke="#e2ebe7"/>
+<text x="573" y="584" class="body">文字識別 → 摘要 → 人工核對</text>
+<text x="573" y="620" class="small">保留不確定處，區分事實與推論</text>
+<path d="M507 664 V679" class="line"/>
+<rect x="56" y="682" width="968" height="126" rx="17" fill="#fff" stroke="#dce7e3"/>
+<circle cx="103" cy="727" r="25" fill="#e6f3ed"/>
+<text x="88" y="735" class="num">03</text>
+<text x="148" y="725" class="h">三語中介學習</text>
+<text x="148" y="763" class="small">T²MI · Trilingual Mediation Instruction</text>
+<line x1="546" y1="707" x2="546" y2="783" stroke="#e2ebe7"/>
+<text x="573" y="730" class="body">學科語言 × 英語 × AI 語言</text>
+<text x="573" y="766" class="small">輸入理解 → 口語表達 → 追問回饋</text>
+<path d="M507 810 V825" class="line"/>
+<rect x="56" y="828" width="968" height="126" rx="17" fill="#fff" stroke="#dce7e3"/>
+<circle cx="103" cy="873" r="25" fill="#e6f3ed"/>
+<text x="88" y="881" class="num">04</text>
+<text x="148" y="871" class="h">知識與脈絡整理</text>
+<text x="148" y="909" class="small">把零散資訊轉為可調用的知識</text>
+<line x1="546" y1="853" x2="546" y2="929" stroke="#e2ebe7"/>
+<text x="573" y="876" class="body">Σ 網站資源：AI／教育／動機／EMI</text>
+<text x="573" y="912" class="small">Project・GPTs・Gems・KB.md</text>
+<path d="M507 956 V971" class="line"/>
+<rect x="56" y="974" width="968" height="126" rx="17" fill="#fff" stroke="#dce7e3"/>
+<circle cx="103" cy="1019" r="25" fill="#e6f3ed"/>
+<text x="88" y="1027" class="num">05</text>
+<text x="148" y="1017" class="h">教材與成果產出</text>
+<text x="148" y="1055" class="small">依學習目標選擇合適的表達形式</text>
+<line x1="546" y1="999" x2="546" y2="1075" stroke="#e2ebe7"/>
+<text x="573" y="1022" class="body">講義・SVG・網頁（SPA／PWA）</text>
+<text x="573" y="1058" class="small">影片・Podcast・語音練習</text>
+<path d="M507 1102 V1117" class="line"/>
+<rect x="56" y="1120" width="968" height="126" rx="17" fill="#fff" stroke="#dce7e3"/>
+<circle cx="103" cy="1165" r="25" fill="#e6f3ed"/>
+<text x="88" y="1173" class="num">06</text>
+<text x="148" y="1163" class="h">工作流程自動化</text>
+<text x="148" y="1201" class="small">將重複任務整理成明確的執行程序</text>
+<line x1="546" y1="1145" x2="546" y2="1221" stroke="#e2ebe7"/>
+<text x="573" y="1168" class="body">Prompt → Context → Harness</text>
+<text x="573" y="1204" class="small">Skills／半自動化 → Agentic AI</text>
+<rect x="56" y="1294" width="968" height="166" rx="17" fill="#eaf4f2" stroke="#cfe3dd"/>
+<text x="80" y="1334" class="h">持續檢核與回饋</text>
+<text x="80" y="1374" class="body">觀察 → 規劃／推理 → 行動 → 檢查／反思 → 調整</text>
+<text x="80" y="1416" class="small">每輪檢核：學科正確性・學習成效・可靠度・偏誤與資安</text>
+<path d="M1000 1294 V1220" class="line"/>
+<text x="56" y="1500" class="small">工具支援｜Slido／Mentimeter：課堂互動　·　Voice Mode：語音學習</text>
+<text x="56" y="1531" class="small">Gemini：網頁／影片內容理解與語言轉換（依可用功能）</text>
+<text x="56" y="1572" class="small">依板書與使用者補充綜合整理；流程為系統化整合，非講者逐字架構。</text>
+</svg>
