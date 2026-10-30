@@ -1,0 +1,25 @@
+{
+  "name": "GenAI 教學整合｜課堂筆記",
+  "short_name": "GenAI 教學筆記",
+  "description": "從課堂記錄到工作流程自動化的互動教學筆記。",
+  "lang": "zh-Hant",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f8f2",
+  "theme_color": "#24453f",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
